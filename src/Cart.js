@@ -21,7 +21,7 @@ const itemPrice = arr[1];
 itemList.push({
 name: itemName,
 price: itemPrice,
-quantity: 5,
+quantity: 1,
 });
 
 this.setState({
